@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=SMDLinux
+Description=SMDLinux theme for KDE Plasma
+Author=Seth Dawson
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/smd-linux/smdlinux-sddm-theme
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=seth.dawson@hotmail.com
+Theme-Id=smdlinux
+Theme-API=2.0
