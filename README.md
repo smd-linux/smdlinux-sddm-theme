@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# SMDLinux sddm theme
+Simple Desktop Display Manager theme for SMDLinux
